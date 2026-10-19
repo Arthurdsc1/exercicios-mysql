@@ -8,3 +8,22 @@ Repositório com os exercícios de banco de dados (MySQL) que resolvi durante o 
 - **Instrutor:** Felipe Mafra
 - **Plataforma:** Udemy
 - **Curso:** O curso completo de Banco de Dados e SQL, sem mistérios!
+
+## Temas abordados
+
+- **Origem, junção, seleção, projeção.
+- **Obrigatoriedade e cardinalidade
+- **Procedures
+- **Modelagem
+- **Querys basicas e querys focadas em performance
+- **View
+- **Order by
+- **DML e DDL
+- ** Ponteramento
+- **Operações Lógicas
+
+## Banco de Dados
+
+- **MySQL
+- **Postgree
+- **Oracle
