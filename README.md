@@ -11,6 +11,7 @@ Repositório com os exercícios de banco de dados (MySQL) que resolvi durante o 
 
 ## Temas abordados
 
+- Business Intelligence
 - Origem, junção, seleção, projeção.
 - Obrigatoriedade e cardinalidade
 - Procedures
@@ -25,5 +26,7 @@ Repositório com os exercícios de banco de dados (MySQL) que resolvi durante o 
 ## Banco de Dados
 
 - **MySQL**
-- **Postgree**
+- *SQL Server**
+- **PLSQL**
 - **Oracle**
+- **T-SQL**
